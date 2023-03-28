@@ -58,7 +58,7 @@ orderly:
     tag: latest
   initial:
     source: clone
-    url: https://github.com/mrc-ide/orderly-tutor.git
+    url: https://github.com/mrc-ide/orderly_training.git
   workers: 1
   env:
     ORDERLY_API_SERVER_IDENTITY: tutor
